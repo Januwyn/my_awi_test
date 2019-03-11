@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
+
+  table, th, td {
+    font-family: "Space Mono", Arial;      
+    border: 1px solid #fff; 
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    opacity:0.9;
+  }
+  tr {
+    background: #f2f2f2;
+  }
+  td {
+    padding: 1rem;
+  }
+  th {
+    padding: 1rem;
+  }
+  h1 {
+    font-family: "Space Mono", Arial;
+    color: white;
+  }
